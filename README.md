@@ -2,6 +2,8 @@
 Sencillo juego de piedra, papel o tijera desarrollado en Flet
 
 ### Requerimientos:
-Instala Flet:  https://flet.dev/
-    
+Instalar Flet en el entorno virtual: 
 pip install flet
+
+### Información acerca de Flet:
+https://flet.dev/
